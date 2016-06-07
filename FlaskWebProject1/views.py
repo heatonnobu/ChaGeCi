@@ -43,6 +43,15 @@ def about():
         message='Your application description page.'
     )
 
+@app.route('/hehe')
+def about():
+    return render_template(
+        'about.html',
+        title='Hehe',
+        year=datetime.now().year,
+        message='呵呵呵呵呵呵呵呵呵呵呵.'
+    )
+
 @app.route('/chageci', methods=['GET', 'POST'])
 def index():
     if request.method == 'GET':
