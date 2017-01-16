@@ -1,0 +1,9 @@
+D:\Dropbox\projects_test\python\vtest1\FlaskWebProject1\bin\Microsoft.PythonTools.WebRole.dll
+D:\Dropbox\projects_test\python\vtest1\FlaskWebProject1\bin\AzureSetup.cfg
+D:\Dropbox\projects_test\python\vtest1\FlaskWebProject1\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\Dropbox\projects_test\python\vtest1\FlaskWebProject1\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\Dropbox\projects_test\python\vtest1\FlaskWebProject1\bin\wfastcgi.py
+D:\Dropbox\projects_test\python\vtest1\FlaskWebProject1\obj\Release\deployment-updated-orig-prefix.txt
+D:\Dropbox\projects_test\python\vtest1\FlaskWebProject1\ptvs_virtualenv_proxy.py
+D:\Dropbox\projects_test\python\vtest1\FlaskWebProject1\obj\Release\web.config
+D:\Dropbox\projects_test\python\vtest1\FlaskWebProject1\obj\Release\web.debug.config
