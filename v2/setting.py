@@ -1,0 +1,1 @@
+CHAGECI_WX_TOKEN='xxxxxxyyy'
